@@ -1,4 +1,4 @@
-# Yes. What will I do next ?
+# Yes. What should I do for next project ?
 ## From the post from instagram
 40 Best project ideads for web deverlopers
 
