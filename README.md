@@ -5,7 +5,7 @@
 
 | Project Name           | Done | Project URL |
 |------------------------|------|-------------|
-| Calculator             |      |             |
+| Calculator             |  ✅  |   https://github.com/siraom15/calculator          |
 | Quiz App               |      |             |
 | Rock Paper Scissors    |      |             |
 | Note App               |      |             |
@@ -15,7 +15,7 @@
 | Ecommerce Website      |      |             |
 | Landing Page           |      |             |
 | Password Generator     |      |             |
-| Tic Tac Toe Game       |      |             |
+| Tic Tac Toe Game       |✅      |    https://github.com/siraom15/TicTacToe         |
 | Link Shortener Website |      |             |
 | Portfolio Website      |      |             |
 | Drawing App            |      |             |
@@ -42,7 +42,7 @@
 | Stock-Trading App      |      |             |
 | Chess Game             |      |             |
 | Music Player           |      |             |
-| To-Do List App         |      |             |
+| To-Do List App         |✅      | https://github.com/siraom15/react-TodoApp            |
 | Random User API        |      |             |
 | Typing Speed Test      |      |             |
 
